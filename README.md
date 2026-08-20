@@ -1,7 +1,7 @@
 # AdaPT: Adaptive Motion Planning and Tracking
 <!-- Badges -->
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-brown)](https://arxiv.org/abs/XXXX.XXXXX) -->
-[![](https://img.shields.io/badge/Website-%F0%9F%9A%80-yellow)](https://humanoidtennis.github.io/AdaPT-Website/)
+[![](https://img.shields.io/badge/Website-%F0%9F%9A%80-yellow)](https://humanoidtennis.github.io/AdaPT-Web/)
 <!-- [![](https://img.shields.io/badge/Youtube-🎬-red)](https://www.youtube.com/watch?v=XXXX) -->
 <!-- [![](https://img.shields.io/badge/Bilibili-📹-blue)](https://www.bilibili.com/video/XXXX) -->
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-purple.svg)]()
