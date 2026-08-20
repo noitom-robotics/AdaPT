@@ -11,7 +11,7 @@ This is the official PyTorch implementation of the paper "[**Towards Professiona
 [Tao Huang](https://taohuang13.github.io/), [Ruofei Liu](https://github.com/lrf23), [Xuchen Tang](https://github.com/tangxch), [Xinyin Zhang](https://github.com/audu-123), [Junli Ren](https://renjunli99.github.io/), [Huayi Wang](https://why618188.github.io/), [Feiyu Jia](https://trap-1.github.io/), [Yukai Qi](https://www.linkedin.com/in/yukaiqi), [Kangning Yin](https://yinkangning0124.github.io/), [Weishuai Zeng](https://zengweishuai.github.io/), [Lipeng Chen](https://lipeng-chen.github.io/), Xi Li, Ting Wu, [Kailin Li](https://kailinli.top/), [Ruoli Dai](https://cn.linkedin.com/in/tristan-ruoli-dai-b2369330), [Jingbo Wang](https://wangjingbo1219.github.io/), [Lei Han](https://leihan.org/), [Jiangmiao Pang](https://oceanpang.github.io/)
 
 <p align="left">
-  <img width="98%" src="docs/images/teaser10_9_roll.png" alt="AdaPT teaser" style="box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3); border-radius: 4px;">
+  <img width="98%" src="docs/images/teaser.jpg" alt="AdaPT teaser" style="box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3); border-radius: 4px;">
 </p>
 
 ## 📑 Table of Contents
