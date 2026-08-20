@@ -98,7 +98,7 @@ This repository is built upon the support and contributions of the following ope
 If you find our work useful, please consider citing:
 
 ```
-@misc{huang2026adapt,
+@article{huang2026adapt,
   title={Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking},
   author={Tao Huang, Ruofei Liu, Xuchen Tang, Xinyin Zhang, Junli Ren, Huayi Wang, Feiyu Jia, Yukai Qi, Kangning Yin, Weishuai Zeng, Lipeng Chen, Xi Li, Ting Wu, Kailin Li, Ruoli Dai, Jingbo Wang, Lei Han, Jiangmiao Pang},
   year={2026}
