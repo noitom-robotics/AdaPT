@@ -14,7 +14,13 @@ PYTHONPATH=src /cpfs/user/huangtao/ruofei/project/mjlab-tennis/.venv/bin/python 
 
 
 PYTHONPATH=src /cpfs/user/huangtao/ruofei/project/mjlab-tennis/.venv/bin/python -m mjlab.scripts.play Mjlab-ServeTracking-Flat-Unitree-G1-Stage1-RandomDt \
-  --checkpoint-file /cpfs/user/huangtao/ruofei/project/AdaPT_Tennis/logs/rsl_rl/g1_serve_tracking_stage1_random_dt/2026-08-19_20-54-04_stage1_p1_open/model_8000.pt \
+  --checkpoint-file /cpfs/user/huangtao/ruofei/project/AdaPT_Tennis/ckpts/player1/model_24000.pt \
+  --motion-file /cpfs/user/huangtao/ruofei/project/AdaPT_Tennis/dataset/player1/p1_serve.npz \
+  --racket-hand left
+
+PYTHONPATH=src /cpfs/user/huangtao/ruofei/project/mjlab-tennis/.venv/bin/python -m mjlab.scripts.play 
+uv run play Mjlab-ServeTracking-Flat-Unitree-G1-Stage1-RandomDt \
+  --checkpoint-file /cpfs/user/huangtao/ruofei/project/AdaPT_Tennis/ckpts/player1/model_24000.pt \
   --motion-file /cpfs/user/huangtao/ruofei/project/AdaPT_Tennis/dataset/player1/p1_serve.npz \
   --racket-hand left
 

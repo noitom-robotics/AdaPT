@@ -51,7 +51,8 @@ HIT_ARM_BODY_NAMES: tuple[str, ...] = _HIT_ARM_BODY_NAMES_LEFT
 
 # Motion-clip keyframe times (seconds) for sparse hit-arm pose shaping.
 HIT_ARM_KEYFRAME_TIMES_S: tuple[float, ...] = (3.4,)
-
+# player1: 3.4
+# player2: 1.84
 
 def _hit_arm_side(
   racket_hand: Literal["left", "right"] | None = None,
