@@ -30,7 +30,7 @@ This is the official PyTorch implementation of the paper "[**Towards Professiona
 ## 🛠️ Installation Instructions
 Clone this repository:
 ```bash
-git clone https://github.com/HumanoidTennis/AdaPT.git
+git clone https://github.com/noitom-robotics/AdaPT
 cd AdaPT
 ```
 
