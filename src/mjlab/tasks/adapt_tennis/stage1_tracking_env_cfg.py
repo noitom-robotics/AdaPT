@@ -1,8 +1,7 @@
 """Stage-1 motion-mimic env config with random motion-``dt`` curriculum.
 
 ``make_stage1_tracking_env_cfg`` mirrors ``mjlab.tasks.tracking.tracking_env_cfg``
-layout (single ``actor`` / ``critic``, motion command only). There is no ball
-command, landing target, gripper, or stage-2 residual policy.
+layout (single ``actor`` / ``critic``, motion command only).
 """
 
 from __future__ import annotations

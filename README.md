@@ -1,7 +1,7 @@
 # AdaPT: Adaptive Motion Planning and Tracking
 <!-- Badges -->
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-brown)](https://arxiv.org/abs/XXXX.XXXXX) -->
-[![](https://img.shields.io/badge/Website-%F0%9F%9A%80-yellow)](https://humanoidtennis.github.io/AdaPT/)
+[![](https://img.shields.io/badge/Website-%F0%9F%9A%80-yellow)](https://humanoidtennis.github.io/AdaPT-Website/)
 <!-- [![](https://img.shields.io/badge/Youtube-🎬-red)](https://www.youtube.com/watch?v=XXXX) -->
 <!-- [![](https://img.shields.io/badge/Bilibili-📹-blue)](https://www.bilibili.com/video/XXXX) -->
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-purple.svg)]()
@@ -11,7 +11,7 @@ This is the official PyTorch implementation of the paper "[**Towards Professiona
 [Tao Huang](https://taohuang13.github.io/), [Ruofei Liu](https://github.com/lrf23), [Xuchen Tang](https://github.com/tangxch), [Xinyin Zhang](https://github.com/audu-123), [Junli Ren](https://renjunli99.github.io/), [Huayi Wang](https://why618188.github.io/), [Feiyu Jia](https://trap-1.github.io/), [Yukai Qi](https://www.linkedin.com/in/yukaiqi), [Kangning Yin](https://yinkangning0124.github.io/), [Weishuai Zeng](https://zengweishuai.github.io/), [Lipeng Chen](https://lipeng-chen.github.io/), Xi Li, Ting Wu, [Kailin Li](https://kailinli.top/), [Ruoli Dai](https://cn.linkedin.com/in/tristan-ruoli-dai-b2369330), [Jingbo Wang](https://wangjingbo1219.github.io/), [Lei Han](https://leihan.org/), [Jiangmiao Pang](https://oceanpang.github.io/)
 
 <p align="left">
-  <video width="98%" src="docs/videos/bg_demo.mp4" autoplay loop muted playsinline style="box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3); border-radius: 4px;"></video>
+  <img width="98%" src="docs/images/teaser10_9_roll.png" alt="AdaPT teaser" style="box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3); border-radius: 4px;">
 </p>
 
 ## 📑 Table of Contents
@@ -30,8 +30,8 @@ This is the official PyTorch implementation of the paper "[**Towards Professiona
 ## 🛠️ Installation Instructions
 Clone this repository:
 ```bash
-git clone https://github.com/HumanoidTennis/AdaPT_CodeBase.git
-cd AdaPT_CodeBase
+git clone https://github.com/HumanoidTennis/AdaPT.git
+cd AdaPT
 ```
 
 Create the virtual environment and install dependencies with [uv](https://docs.astral.sh/uv/):
