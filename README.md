@@ -1,12 +1,11 @@
 # AdaPT: Adaptive Motion Planning and Tracking
 <!-- Badges -->
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-brown)](https://arxiv.org/abs/XXXX.XXXXX) -->
 [![](https://img.shields.io/badge/Website-%F0%9F%9A%80-yellow)](https://humanoidtennis.github.io/AdaPT)
-<!-- [![](https://img.shields.io/badge/Youtube-🎬-red)](https://www.youtube.com/watch?v=XXXX) -->
-<!-- [![](https://img.shields.io/badge/Bilibili-📹-blue)](https://www.bilibili.com/video/XXXX) -->
+[![](https://img.shields.io/badge/Youtube-🎬-red)](https://youtu.be/Umpile9-CqI)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-purple.svg)]()
-
-This is the official PyTorch implementation of the paper "[**Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking**](xxxxxxxxxxxxxxxxx)" by
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-brown)](https://arxiv.org/abs/2608.20087)
+<!-- [![](https://img.shields.io/badge/Bilibili-📹-blue)](https://www.bilibili.com/video/XXXX) -->
+This is the official PyTorch implementation of the paper "[**Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking**](https://arxiv.org/abs/2608.20087)" by
 
 [Tao Huang](https://taohuang13.github.io/), [Ruofei Liu](https://github.com/lrf23), [Xuchen Tang](https://github.com/tangxch), [Xinyin Zhang](https://github.com/audu-123), [Junli Ren](https://renjunli99.github.io/), [Huayi Wang](https://why618188.github.io/), [Feiyu Jia](https://trap-1.github.io/), [Yukai Qi](https://www.linkedin.com/in/yukaiqi), [Kangning Yin](https://yinkangning0124.github.io/), [Weishuai Zeng](https://zengweishuai.github.io/), [Lipeng Chen](https://lipeng-chen.github.io/), Xi Li, Ting Wu, [Kailin Li](https://kailinli.top/), [Ruoli Dai](https://cn.linkedin.com/in/tristan-ruoli-dai-b2369330), [Jingbo Wang](https://wangjingbo1219.github.io/), [Lei Han](https://leihan.org/), [Jiangmiao Pang](https://oceanpang.github.io/)
 
@@ -25,7 +24,7 @@ This is the official PyTorch implementation of the paper "[**Towards Professiona
 
 ## 🔥 News
 - \[2026-08\] We release the training code for the first stage of our adaptive serve tracking.
-- \[2026-08\] We release the [paper](xxxxxxxxxx) and [demos](https://humanoidtennis.github.io/AdaPT/) of AdaPT.
+- \[2026-08\] We release the [paper](https://arxiv.org/abs/2608.20087) and [demos](https://humanoidtennis.github.io/AdaPT/) of AdaPT.
 
 ## 🛠️ Installation Instructions
 Clone this repository:
@@ -101,6 +100,8 @@ If you find our work useful, please consider citing:
 @article{huang2026adapt,
   title={Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking},
   author={Tao Huang, Ruofei Liu, Xuchen Tang, Xinyin Zhang, Junli Ren, Huayi Wang, Feiyu Jia, Yukai Qi, Kangning Yin, Weishuai Zeng, Lipeng Chen, Xi Li, Ting Wu, Kailin Li, Ruoli Dai, Jingbo Wang, Lei Han, Jiangmiao Pang},
-  year={2026}
+  journal={arXiv preprint arXiv:2608.20087},
+  year={2026},
+  url={https://arxiv.org/abs/2608.20087}
 }
 ```
